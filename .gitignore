@@ -1,0 +1,18 @@
+.env
+__pycache__/
+.git 
+# --- Security ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# --- Databases & Logs ---
+*.log
+postgres_data/
+
+# --- System ---
+.DS_Store
